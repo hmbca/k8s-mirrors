@@ -1,2 +1,2 @@
-FROM k8s.gcr.io/ingress-nginx/controller:latest
+FROM k8s.gcr.io/ingress-nginx/controller:v0.41.2
 MAINTAINER hmbca
